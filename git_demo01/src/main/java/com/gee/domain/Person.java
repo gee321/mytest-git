@@ -8,4 +8,5 @@ package com.gee.domain;
 public class Person {
     private Integer pid;
     private String pname;
+    private Integer age;
 }
